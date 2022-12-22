@@ -21,7 +21,7 @@ highlight_theme: tomorrow
 url     : https://jangmin-lee.github.io/
 baseurl : # does not include hostname
 title   : Bengalog
-description: > Daily & Research Blog
+description: Daily & Research Blog
 
 
 ## => Language and Timezone
